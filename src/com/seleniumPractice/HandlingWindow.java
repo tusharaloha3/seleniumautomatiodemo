@@ -12,9 +12,9 @@ public class HandlingWindow {
 	public static void main(String[] args) throws Exception {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\tushp\\eclipse-workspace\\SeleniumPractice\\Driver\\chromedriver.exe");
 
-		//•	WebDriver interface has two predefined methods getWindowHandles() and switchTo() , which helps us in handling multiple browser windows. 
-		//•	getWindowHandles() - Used to retrieve all the ids of the currently opened windows (Windows can be popup-windows, windows opened in new tabs etc) - Demonstrate here
-		//•	switchTo() - Used to switch between different windows when multiple windows are opened by using the ids of the currently opened windows which are returned by getWindowHandles() - Demonstrate here
+		//ï¿½	WebDriver interface has two predefined methods getWindowHandles() and switchTo() , which helps us in handling multiple browser windows. 
+		//ï¿½	getWindowHandles() - Used to retrieve all the ids of the currently opened windows (Windows can be popup-windows, windows opened in new tabs etc) - Demonstrate here
+		//ï¿½	switchTo() - Used to switch between different windows when multiple windows are opened by using the ids of the currently opened windows which are returned by getWindowHandles() - Demonstrate here
 		//o	Syntax: switchTo().window("Retrieved Window ID");
 
 		WebDriver driver = new ChromeDriver(); 
@@ -39,7 +39,7 @@ public class HandlingWindow {
 		driver.close();
 		
 		driver.switchTo().window(mainwindowID);
-		
+		System.out.println("Tushar Updated the code for push into the github");
 		Thread.sleep(3000);
 		driver.quit();
 	}
