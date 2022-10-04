@@ -40,6 +40,7 @@ public class HandlingWindow {
 		
 		driver.switchTo().window(mainwindowID);
 		System.out.println("Tushar Updated the code for push into the github");
+		System.out.println("Tushar Updated the code for to pull into local");
 		Thread.sleep(3000);
 		driver.quit();
 	}
