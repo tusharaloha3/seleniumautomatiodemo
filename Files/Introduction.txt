@@ -1,0 +1,19 @@
+Hello, My name is Siddharth and I have Total 4 yrs. of experience as a QA Engineer in Insurance domain on Personal Property and Casualty 
+line of business and testing products like Guidewire PolicyCenter, BC, PE, Claim Center.
+
+In PolicyCenter my areas of expertise were testing the Policy Life Cycle, Forms and Documents, Policy Workflow, Underwriting Activity and configuration testing.
+I have also worked on Billing Center and tested the BC functionalities, Workflow, Features, Administrative Parts, configuration testing, Integration with PC and E2E workflow.
+
+I have good experience in functional testing, Configuration Testing, Regression testing, Integration testing, Exploratory and E2E Testing and also have exposer on other testing types.
+
+And also having the experience with QA methodologies, analyzing the requirements and good knowledge in writing the test cases and Executing TCs.
+
+Also having the experience in creating and handling the defects throughout its entire life cycle from Creation to close using Jira.
+
+Apart from this I have Good Knowledge in Software Development Life Cycle (SDLC) and I have worked on Agile Model and worked in sprints process.
+
+While working in the sprint I was involved in Sprint meetings, like Sprint Planning, Sprint demo, retrospective, Daily Scrum, etc.
+
+Apart from this I am Quick learner, self-motivated and ready to learn new technology if required and I am very hardworking, Punctual and loyal towards my work.
+
+Thats all from my Side, thank you.
